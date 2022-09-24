@@ -1,2 +1,2 @@
 def reverse(s)
-print (s)
+  return s[::-1]
